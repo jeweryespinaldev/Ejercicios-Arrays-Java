@@ -45,5 +45,5 @@ El objetivo es comprender cómo agrupar y manipular datos relacionados usando ar
 
 Jewery Francisco Espinal Cabrera
 📍 República Dominicana
-💼 LinkedIn: https://www.linkedin.com/in/jewery-francisco-espinal-cabrera-a09205378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+💼 LinkedIn: 
 📚 Backend Developer | Aprendiz de Java y POO
