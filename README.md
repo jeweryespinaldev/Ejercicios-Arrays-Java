@@ -44,6 +44,14 @@ El objetivo es comprender cómo agrupar y manipular datos relacionados usando ar
 👨‍💻 Autor
 
 Jewery Francisco Espinal Cabrera
-📍 República Dominicana
-💼 LinkedIn: 
+
+📍República Dominicana 🇩🇴
+🔗GitHub | LinkedIn
+
 📚 Backend Developer | Aprendiz de Java y POO
+
+Joyería Francisco Espinal Cabrera
+👨‍💻 Apasionado por la programación, la lógica y el desarrollo backend con Java.
+
+📍República Dominicana 🇩🇴
+🔗GitHub | LinkedIn
