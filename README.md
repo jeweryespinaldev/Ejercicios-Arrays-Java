@@ -1,6 +1,6 @@
 🧠 Ejercicios de Arrays en Java
 
-👨‍💻 Repositorio personal de práctica mientras aprendo Java Backend
+👨‍💻 Repositorio personal de práctica mientras aprende Java Backend
 
 
 
