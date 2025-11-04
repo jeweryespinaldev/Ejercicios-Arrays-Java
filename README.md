@@ -26,7 +26,7 @@ Mi objetivo es dominar cada tema a profundidad antes de avanzar al siguiente, ap
 
 🧩 Ejercicios actuales
 
-🔹 Bloque 1 — Arrays Básicos
+🔹 Bloque 1 — Arrays Básicos ejercicios
 
 Archivo: Programadores_Arrays_java.java
 
@@ -41,18 +41,15 @@ Calcula el total general de sueldos.
 
 
 
-🔹 Bloque 2 — Arrays con Bucles
+🔹 Bloque 2 — Arrays con Bucles ejercicios
 
-Archivo: Array_ejercicios_Bloque2.java
-
+Archivo: Array_frutas_colores.java
 Clasifica frutas por color (rojas, amarillas, verdes).
-
 Usa bucles for y while anidados para recorrer cada grupo.
 
-Combina arrays y condicionales if para mostrar resultados dinámicos.
-🧠 Enfocado en combinar lógica de bucles con estructura de datos.
-
-
+Archivo: Sistema_dinamico_de_Ventas
+agrega productos y sus precio correspondiente
+usa bucles for y while para buscar los productos ingresados y venderlos
 
 
 
@@ -105,8 +102,9 @@ El objetivo es comprender cómo agrupar y manipular datos relacionados usando ar
 
 📅 Etapa de aprendizaje
 
-🔹 Etapa actual: Arrays – Bloque 1 (Ejercicios Básicos)
-🔹 Próxima etapa: Arrays con bucles y combinaciones
+🔹 1 Etapa dominada: Arrays – Bloque 1 (Ejercicios Básicos)
+🔹 2 etapa dominada: Arrays con bucles y combinaciones
+🔹 3 Próxima etapa: matrices
 
 👨‍💻 Autor
 
@@ -238,6 +236,81 @@ Jewery Francisco Espinal Cabrera
 📍 Backend Learner | Java Developer en formación
 📎 💼 LinkedIn: (https://www.linkedin.com/in/jewery-francisco-espinal-cabrera-a09205378)
 📘 Repositorio creado como parte de mi proceso de aprendizaje para convertirme en Desarrollador Fullstack especializado en Backend (Java)
+
+
+
+2️⃣BLOQUE 2: Sistema Dinamico de Ventas
+
+ 🧠 Sistema Dinámico de Productos (Arrays en Java)
+
+Este proyecto fue creado como parte del Bloque 2: Arrays Dinámicos, dentro de mi proceso de aprendizaje en Java ☕.
+El objetivo principal fue combinar estructuras de datos, validaciones y menús interactivos para crear un sistema completo y funcional que simule un pequeño sistema de ventas de productos.
+
+
+🧩 Descripción del Sistema
+
+El programa permite:
+
+- Registrar productos junto a sus precios 💰
+- Consultar los productos disponibles 📦
+- Vender productos y calcular el monto total de la venta 🧾
+- Visualizar la última venta realizada 🔄
+- Controlar el flujo del menú principal con opciones para entrar, salir y navegar entre funciones 🧭
+
+Todo el sistema fue construido utilizando Arrays dinámicos, control de flujo con "while" y "switch", y validaciones con "if" y "equalsIgnoreCase()".
+
+
+
+⚙️ Funcionalidades principales
+
+1. Registro de productos
+
+   - El usuario define cuántos productos desea almacenar.
+   - Se ingresan los nombres y precios de cada producto.
+
+2. Menú interactivo
+
+   - 1️⃣ Vender productos
+   - 2️⃣ Ver productos disponibles
+   - 3️⃣ Ver la última venta realizada
+   - 4️⃣ Salir del sistema
+
+3. Validaciones
+
+   - No se permiten valores negativos ni vacíos.
+   - Se valida el nombre del producto antes de realizar una venta.
+
+
+
+📘 Conceptos aplicados
+
+- Arreglos dinámicos ("String[]", "int[]")
+- Bucles "for" y "while"
+- Estructura de control "switch"
+- Validaciones con "if" y "boolean"
+- Métodos de comparación de texto ("equalsIgnoreCase")
+
+
+
+🧠 Aprendizaje obtenido
+
+Este proyecto me ayudó a entender cómo los Arrays pueden reemplazar decenas de variables y permitir manejar información de forma más limpia, dinámica y escalable.
+Además, aprendí a organizar un sistema completo por secciones, usando menús y submenús sin perder control del flujo del programa.
+
+
+
+🧩 Conclusión
+
+Fue un paso importante en mi evolución como programador.
+Antes necesitaba muchas variables para algo tan simple como registrar productos,
+ahora con Arrays y lógica estructurada puedo crear sistemas más sólidos, ordenados y eficientes 💪
+
+«Este proyecto forma parte de mi entrenamiento personal en el Bloque 2 de Arrays en Java ☕
+Desarrollado por: Jewery Francisco Espinal Cabrera
+#Java #Backend #Arrays #AprendiendoProgramación»
+
+
+
 
 
 
