@@ -16,7 +16,16 @@ Cada bloque representa una etapa de mi progreso:
 
 🔵 Bloque 2: Arrays combinados con bucles
 
+🔴 bloque 3: matrices
+
 🟣 Próximo: Métodos (diciembre 2025)
+
+📅 Etapa de aprendizaje
+
+🔹 1 Etapa dominada: Arrays – Bloque 1 (Ejercicios Básicos)
+🔹 2 etapa dominada: Arrays con bucles y combinaciones
+🔹 3 Próxima etapa: matrices
+
 
 
 Mi objetivo es dominar cada tema a profundidad antes de avanzar al siguiente, aplicando lógica, estructura y buenas prácticas desde los fundamentos.
@@ -101,10 +110,6 @@ El objetivo es comprender cómo agrupar y manipular datos relacionados usando ar
 
 
 📅 Etapa de aprendizaje
-
-🔹 1 Etapa dominada: Arrays – Bloque 1 (Ejercicios Básicos)
-🔹 2 etapa dominada: Arrays con bucles y combinaciones
-🔹 3 Próxima etapa: matrices
 
 👨‍💻 Autor
 
