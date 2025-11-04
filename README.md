@@ -224,8 +224,7 @@ reducir código repetido y mejorar la organización de la información dentro de
 
 
 🧩 Archivo
-
-Array_ejercicios_Bloque2.java
+Array_frutas_colores.java
 
 
 
@@ -308,6 +307,14 @@ ahora con Arrays y lógica estructurada puedo crear sistemas más sólidos, orde
 «Este proyecto forma parte de mi entrenamiento personal en el Bloque 2 de Arrays en Java ☕
 Desarrollado por: Jewery Francisco Espinal Cabrera
 #Java #Backend #Arrays #AprendiendoProgramación»
+
+💡 Autor
+
+Jewery Francisco Espinal Cabrera
+📍 Backend Learner | Java Developer en formación
+📎 💼 LinkedIn: (https://www.linkedin.com/in/jewery-francisco-espinal-cabrera-a09205378)
+📘 Repositorio creado como parte de mi proceso de aprendizaje para convertirme en Desarrollador Fullstack especializado en Backend (Java)
+
 
 
 
